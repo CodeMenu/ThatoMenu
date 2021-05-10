@@ -1,10 +1,12 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Thato Menu # your name (or website title) here
+logo: "/images/C:\Users\THATO\Downloads\thato.jpg" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>I'm a part time Sale Associate at Adidas,i'm a very hard work man who follow's the rule and regulations within the work i do.I start working at Adidas last year November 2020
+  is been a journey that opended my mind to more opportunities and ideas to improve my life. Plus the pandemic taught me to be innvative with myself so i got into IT<br>
   Second description 
-  <br><br>
+  <br>I'm on a process of becoming a Software Developer,i joined LInkedin last year to learn how to become a developer.I'm within progress of being a developer, 
+  in the other hand im also  busy with Hardware,the computer that i"m using right know i build it myself ,the course has  taught me a lot things that i did not know  for example how to creat and build my own website,soon ill shall be full stock and Software developer .GIthub is showing how to layout my projects and how to build them properly <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
